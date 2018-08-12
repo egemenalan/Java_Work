@@ -5,6 +5,7 @@ public class AmbisiguousMethod {
 	public static void main(String[] args) {
 		
 		 max(3,7);
+		 	
 		
 	}
 	
